@@ -1,4 +1,6 @@
-# Simple Web For Scan QR
+# For WhatsApp Bots
+# Single & Multi Auth Qr 
 
-🌱: https://whatsapp-qr.vercel.app/
-🌱: https://rossy-chan.github.io/Web-QR/
+🌱 https://whatsappqr.vercel.app/
+
+🌱 https://rossy-chan.github.io/Web-QR/
