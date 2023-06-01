@@ -1,3 +1,4 @@
 # Simple Web For Scan QR
 
-🌱: https://web-qr-two.vercel.app/
+🌱: https://whatsapp-qr.vercel.app/
+🌱: https://rossy-chan.github.io/Web-QR/
